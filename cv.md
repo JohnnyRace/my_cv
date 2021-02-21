@@ -7,7 +7,7 @@ Illia Sokalau
 * [Telegram](https://t.me/r0ck6t)
 * Mail: chikibombaleykum@gmail.com
 
-## About me
+### About me
 
   My main goal is to become a highly qualified IT specialist. My strong point is the backend.
 I have no production experience, but I worked with bots for telegrams, instragram and VKontakte
