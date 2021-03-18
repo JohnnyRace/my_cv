@@ -1,2 +1,2 @@
 # CV
-https://johnnyrace.github.io/rsschool-cv/cv
+https://johnnyrace.github.io/my_cv/cv
